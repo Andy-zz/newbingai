@@ -1,8 +1,8 @@
 let joinStats = true;  //可选加入统计。 加入统计不会收集任何隐私信息，仅统计访问量。
 let webPath = 'https://raw.githubusercontent.com/Andy-zz/newbingai/master/src/main/resources'; //web页面地址，可以修改成自己的仓库来自定义前端页面
 let serverConfig = {
-    "h1": "NewBingGoGo",
-    "h2": "简单开始和NewBing聊天",
+    "h1": "NewBingAI",
+    "h2": "苦海回身，早悟兰因。",
     "p":"",
     "firstMessages":[
         "好的，我已清理好板子，可以重新开始了。我可以帮助你探索什么?",
